@@ -1,0 +1,24 @@
+
+
+{% extends "app/base.html" %} {% block title %} Products {% endblock title%} {% block content %}
+
+<h1>hello</h1>
+{% for n in product %}
+
+
+
+
+<div class="card" style="width: 18rem">
+    <img
+      class="card-img-top"
+      src="{{n.image.url}}"
+      alt="Card image cap"
+    />
+    <div class="card-body">
+      <h5 class="card-title">{{n.title}}</h5>
+      <p class="card-text">{{n.description}}</p>
+      <a href="{% url 'app_api:productD' n.id %}" class="btn btn-primary">View Detail</a>
+    </div>
+    </div>
+  </div>
+  {% endfor %} {% endblock content %}

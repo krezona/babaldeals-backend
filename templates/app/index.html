@@ -1,0 +1,10 @@
+
+Sign in check
+{% if user.is_authenticated %}
+<p>hello {{user.username}}</p>
+{% else %}
+<p>Log in</p>
+{% endif %}
+
+
+

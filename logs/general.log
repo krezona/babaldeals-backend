@@ -1,0 +1,1186 @@
+2024-06-19 12:09:47,042 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:14:02,566 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:14:03,787 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:14:16,926 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:14:18,182 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:14:22,397 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:14:23,778 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:16,272 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-19 12:16:17,479 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:22,017 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-19 12:16:23,238 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:28,898 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-19 12:16:30,086 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:33,595 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-19 12:16:34,780 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:42,536 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:16:43,793 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:16:47,295 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:16:48,468 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:17:01,683 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:17:03,056 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:17:17,330 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:17:18,728 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:17:26,415 (WARNING) - django.request - Not Found: /favicon.ico
+2024-06-19 12:17:35,082 (WARNING) - django.request - Method Not Allowed: /api/carts/38/checkout/
+2024-06-19 12:17:49,839 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:17:51,313 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:19:10,356 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:19:11,824 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:21:33,595 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:21:35,001 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:21:46,147 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:21:47,430 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:22:04,925 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:22:06,122 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:22:34,363 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:22:35,575 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:22:46,598 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:22:47,796 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:24:10,030 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:24:11,229 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:24:15,797 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:24:17,041 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:30:22,810 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:30:24,049 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:30:42,788 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:30:44,010 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:31:07,975 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:31:09,219 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:31:17,006 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:31:18,188 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:31:26,003 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:31:27,163 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:31:31,716 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:31:32,955 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:34:24,687 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:34:25,980 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:34:29,499 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:34:30,694 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:34:44,954 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:34:46,157 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:34:51,818 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:34:53,392 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:35:03,457 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:35:04,692 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:35:07,103 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:35:08,346 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:36:26,658 (INFO) - stripe - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2024-06-19 12:36:27,409 (INFO) - stripe - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2024-06-19 12:36:27,679 (ERROR) - django.request - Internal Server Error: /api/carts/38/checkout/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 433, in post
+    cart= get_object_or_404(Cart, pk=pk, user = request.user)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\shortcuts.py", line 86, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002245AA46C30>.
+2024-06-19 12:36:57,795 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:36:59,522 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:37:06,187 (INFO) - stripe - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2024-06-19 12:37:07,238 (INFO) - stripe - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2024-06-19 12:37:07,332 (ERROR) - django.request - Internal Server Error: /api/carts/38/checkout/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 433, in post
+    cart= get_object_or_404(Cart, pk=pk, user = request.user)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\shortcuts.py", line 86, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001EC3D5705F0>.
+2024-06-19 12:37:29,440 (WARNING) - django.request - Method Not Allowed: /api/carts/38/checkout/
+2024-06-19 12:39:20,085 (WARNING) - django.request - Forbidden: /api/stripe-intent/
+2024-06-19 12:40:26,648 (WARNING) - django.request - Forbidden: /api/token/
+2024-06-19 12:40:31,954 (WARNING) - django.request - Forbidden: /api/token/
+2024-06-19 12:40:40,286 (WARNING) - django.request - Forbidden: /api/token/
+2024-06-19 12:40:47,040 (WARNING) - django.request - Forbidden: /api/token/
+2024-06-19 12:41:15,102 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-19 12:41:16,784 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:41:19,563 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:41:25,858 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:41:32,596 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:41:39,376 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:41:48,089 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:42:23,027 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:42:29,343 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:42:35,296 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-19 12:43:04,516 (INFO) - stripe - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2024-06-19 12:43:05,247 (INFO) - stripe - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2024-06-19 12:43:05,353 (ERROR) - django.request - Internal Server Error: /api/carts/38/checkout/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 433, in post
+    cart= get_object_or_404(Cart, pk=pk, user = request.user)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\shortcuts.py", line 86, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 635, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x0000024E710A2600>.
+2024-06-19 12:45:43,126 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-19 12:45:44,639 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-19 12:45:44,836 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-19 12:45:45,038 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-19 12:53:17,530 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:53:19,068 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:53:21,712 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:53:23,027 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:53:38,573 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:53:40,003 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:53:43,488 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:53:44,940 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:53:51,655 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:53:52,991 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:55:51,378 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:55:53,172 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:56:06,518 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:56:07,734 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:56:10,158 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:56:11,347 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:56:20,202 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:56:21,568 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:56:30,449 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:56:31,980 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:56:37,800 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:56:39,152 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:57:04,527 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:57:05,788 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:57:08,273 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:57:09,661 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:57:40,494 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:57:41,978 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:57:54,371 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:57:55,672 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:58:15,659 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 12:58:17,012 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:58:22,038 (WARNING) - django.request - Unauthorized: /api/stripe-intent/
+2024-06-19 12:58:31,875 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-19 12:58:33,423 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 12:58:37,833 (INFO) - stripe - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2024-06-19 12:58:38,662 (INFO) - stripe - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2024-06-19 12:59:40,399 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-19 12:59:41,764 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:00:03,756 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:00:05,027 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:00:23,632 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:00:24,828 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:00:28,331 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:00:29,543 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:00:33,048 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:00:34,329 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:01:33,910 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:01:35,286 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:01:49,637 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:01:50,954 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:02:16,286 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:02:17,485 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:02:35,428 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:02:36,703 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:02:39,130 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:02:40,429 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:02:45,039 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:02:46,298 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:02:53,098 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:02:54,317 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:05:10,290 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:05:11,503 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:05:19,382 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:05:20,674 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:05:28,517 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:05:29,785 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:10:14,679 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:10:15,974 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:10:18,448 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:10:19,626 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:10:34,909 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:10:36,120 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:12:59,732 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:13:00,946 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 13:19:18,974 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-19 13:19:20,181 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-19 15:42:29,205 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\exception\bad_request_exception.py changed, reloading.
+2024-06-19 15:42:30,734 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:15:31,540 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:16:13,028 (WARNING) - django.request - Bad Request: /api/user/register/
+2024-06-20 13:18:12,618 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 13:18:14,071 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:18:16,700 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 13:18:18,051 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:18:26,810 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 13:18:28,172 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:19:17,248 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 13:19:18,392 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:20:15,743 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:20:16,906 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:20:22,346 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:20:23,556 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:20:31,157 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:20:32,457 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:20:37,931 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:20:39,112 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:21:13,314 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:21:14,630 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:22:11,037 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 13:22:12,430 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:22:39,552 (WARNING) - django.request - Not Found: /accounts/email/login
+2024-06-20 13:24:24,807 (WARNING) - django.security.csrf - Forbidden (CSRF cookie not set.): /accounts/google/login/
+2024-06-20 13:32:52,139 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:32:53,600 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:32:59,391 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:33:00,641 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:33:03,024 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:33:04,536 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:40:50,672 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:40:52,163 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:41:02,275 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:41:03,575 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:41:13,421 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:41:14,821 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:41:18,279 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:41:19,573 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:41:23,055 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:41:24,329 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:41:28,871 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:41:30,335 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:45:47,354 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\urls.py changed, reloading.
+2024-06-20 13:45:48,706 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:48:51,107 (WARNING) - django.request - Not Found: /api/category/asd/
+2024-06-20 13:51:18,560 (WARNING) - django.request - Method Not Allowed: /api/token/
+2024-06-20 13:51:38,931 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\urls.py changed, reloading.
+2024-06-20 13:51:40,196 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:52:25,133 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 13:52:26,339 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 13:52:32,706 (WARNING) - django.request - Method Not Allowed: /api/token/
+2024-06-20 13:52:51,160 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-20 13:52:58,358 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-20 13:53:24,553 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-20 13:53:28,915 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-20 13:53:34,532 (WARNING) - django.request - Bad Request: /api/token/
+2024-06-20 13:55:46,971 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 13:55:48,165 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:05:59,426 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 14:06:07,455 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 14:06:09,237 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:06:23,310 (WARNING) - django.request - Not Found: /api/carts/38/1/
+2024-06-20 14:06:29,946 (WARNING) - django.request - Method Not Allowed: /api/carts/38/items/3/
+2024-06-20 14:06:33,142 (WARNING) - django.request - Method Not Allowed: /api/carts/38/items/2/
+2024-06-20 14:13:48,707 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:13:49,973 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:13:58,639 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:13:59,770 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:14:02,059 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:14:03,208 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:15:01,663 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:15:02,908 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:15:06,285 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:15:07,421 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:15:59,566 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\views.py changed, reloading.
+2024-06-20 14:16:00,727 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:17:08,157 (WARNING) - django.request - Not Found: /api/order/
+2024-06-20 14:17:11,706 (WARNING) - django.request - Not Found: /api/order/9/
+2024-06-20 14:17:16,748 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\urls.py changed, reloading.
+2024-06-20 14:17:17,914 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:21:36,443 (WARNING) - django.request - Not Found: /api/order/
+2024-06-20 14:23:05,720 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app_api\urls.py changed, reloading.
+2024-06-20 14:23:07,054 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:23:21,180 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 14:23:22,293 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:25:18,155 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 14:25:19,403 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 14:26:43,117 (WARNING) - django.request - Not Found: /api/profile
+2024-06-20 14:26:51,076 (WARNING) - django.request - Not Found: /api/profile/
+2024-06-20 14:28:01,669 (WARNING) - django.request - Bad Request: /api/user/profile/
+2024-06-20 15:56:11,530 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\app\models.py changed, reloading.
+2024-06-20 15:56:13,249 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 15:59:29,657 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\exception\exception.py changed, reloading.
+2024-06-20 15:59:30,954 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 15:59:43,887 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 15:59:44,979 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:03:12,595 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 16:03:13,990 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:07:05,505 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 16:07:06,733 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:07:12,281 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\urls.py changed, reloading.
+2024-06-20 16:07:13,696 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:07:18,306 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\urls.py changed, reloading.
+2024-06-20 16:07:19,440 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:08:02,209 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:08:03,620 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:08:25,436 (WARNING) - django.request - Not Found: /api/ssfjjxf
+2024-06-20 16:09:21,708 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:09:23,112 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:10:42,335 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 16:11:41,509 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 16:11:45,174 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 16:13:10,830 (WARNING) - django.request - Not Found: /favicon.ico
+2024-06-20 16:13:51,692 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 16:54:50,571 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:54:51,926 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:54:55,410 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:54:56,635 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:55:08,519 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:55:10,171 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 16:55:34,918 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 16:55:36,253 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:13:42,707 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:13:45,047 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 17:13:46,396 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:13:48,199 (WARNING) - django.request - Not Found: /api/token/google/
+2024-06-20 17:14:08,483 (WARNING) - django.request - Not Found: /api/token/google/
+2024-06-20 17:14:58,680 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\settings.py changed, reloading.
+2024-06-20 17:15:00,084 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:15:02,709 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\project\urls.py changed, reloading.
+2024-06-20 17:15:04,041 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:16:35,742 (WARNING) - django.request - Not Found: /ap
+2024-06-20 17:16:41,216 (WARNING) - django.request - Unauthorized: /api/category/
+2024-06-20 17:17:02,210 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:08,888 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:15,535 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:28,640 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:32,246 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:35,009 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:36,674 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:17:47,449 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B856294860>.
+2024-06-20 17:17:54,990 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B856015400>.
+2024-06-20 17:18:00,234 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B8562AD700>.
+2024-06-20 17:18:03,109 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:18:11,894 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B85607CB90>.
+2024-06-20 17:18:13,900 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B856044470>.
+2024-06-20 17:18:14,155 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B8562AE900>.
+2024-06-20 17:18:14,458 (ERROR) - django.request - Internal Server Error: /api/carts/38/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\generics.py", line 212, in get
+    return self.retrieve(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 199, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\app_api\views.py", line 195, in get_queryset
+    return Cart.objects.filter(user=self.request.user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000001B8562C0CB0>.
+2024-06-20 17:18:15,150 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:18:15,987 (WARNING) - django.request - Unauthorized: /api/carts/
+2024-06-20 17:18:22,018 (WARNING) - django.request - Not Found: /api/token/google/
+2024-06-20 17:18:31,931 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\urls.py changed, reloading.
+2024-06-20 17:18:33,271 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:18:41,958 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\urls.py changed, reloading.
+2024-06-20 17:18:43,076 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:19:07,673 (WARNING) - django.request - Method Not Allowed: /api/user/token/google/
+2024-06-20 17:19:26,223 (ERROR) - django.request - Internal Server Error: /api/user/token/google/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\user\views.py", line 123, in post
+    token = self.get_tokens_for_user(user)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ObtainJWTFromGoogle' object has no attribute 'get_tokens_for_user'
+2024-06-20 17:20:33,908 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:20:35,396 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:20:46,296 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:20:47,464 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:20:54,063 (ERROR) - django.request - Internal Server Error: /api/user/token/google/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\user\views.py", line 125, in post
+    token = self.get_tokens_for_user(user)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ObtainJWTFromGoogle' object has no attribute 'get_tokens_for_user'
+2024-06-20 17:21:11,407 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:21:12,901 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:24:17,347 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:24:18,792 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:25:33,122 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:25:34,260 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:26:19,887 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:26:21,020 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:29:46,917 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:29:48,303 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:30:03,436 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:30:04,889 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:30:17,814 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:30:19,233 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:30:42,834 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:30:44,356 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:31:09,026 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:31:10,154 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:31:12,584 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:31:13,935 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-06-20 17:31:17,242 (WARNING) - django.request - Method Not Allowed: /api/user/token/google/
+2024-06-20 17:31:25,636 (ERROR) - django.request - Internal Server Error: /api/user/token/google/
+Traceback (most recent call last):
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\flame2\babaldeals\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\flame2\babaldeals\user\views.py", line 120, in post
+    adapter = GoogleOAuth2Adapter()
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: OAuth2Adapter.__init__() missing 1 required positional argument: 'request'
+2024-06-20 17:39:06,256 (INFO) - django.utils.autoreload - E:\flame2\babaldeals\user\views.py changed, reloading.
+2024-06-20 17:39:07,675 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
